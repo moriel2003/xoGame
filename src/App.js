@@ -7,9 +7,7 @@ function App() {
   return (
     <div className="App">
       <h1 className='Title'> IX IGUL </h1>
-      
-      
-     <GameBoard ></GameBoard>
+      <GameBoard ></GameBoard>
       
     </div>
   );
